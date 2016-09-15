@@ -5,9 +5,8 @@ logo: /static/img/avatar.png
 github: https://guanshiqiang.com/
 about: Growth Hacker
 
-baseurl: "http://guanshiqiang.com”
-url: "http://guanshiqiang.com”
-
+baseurl: "http://guanshiqiang.com/"
+url: "http://guanshiqiang.com/"
 disqus_shortname: 
 google_analytics: 
 
