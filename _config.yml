@@ -1,15 +1,15 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+title: 官世强
+description: 我的个人博客
+author: 官世强
+logo: /static/img/avatar.png
+github: https://guanshiqiang.com/
+about: Growth Hacker
 
-baseurl: "http://aboutashu.com/hcz-jekyll-blog"
-url: "http://aboutashu.com/hcz-jekyll-blog"
+baseurl: "http://guanshiqiang.com”
+url: "http://guanshiqiang.com”
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: 
+google_analytics: 
 
 share:
   twitter_username: \#
